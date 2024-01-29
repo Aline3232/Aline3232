@@ -24,7 +24,7 @@ public class MyGitHubProfile {
 
         // Featured Projects
         String[] projects = {
-            "Project 1: Brief description and link",
+            "Project 1: Drumkit-Base",
             "Project 2: Brief description and link",
             "Project 3: Brief description and link"
         };
